@@ -1,14 +1,17 @@
 /**
- * Created by sebas on 21.12.2016.
+ * Organisation: University of applied sciences Munich, faculty 07
+ * Project: lab to class software developement 1 Mrs. Prof. Dr. Hammerschall, WS 2016/2017
+ * Author: Sebastian Baumann, sebastian_baumann@gmx.net
+ * Study group: IF3A
+ * Date: 21. December 2016
+ * Purpose: solution to lab Matrix
  */
-
 public class Main {
 
     public static void main(String[] args) {
 
         Matrix matrix = new Matrix(0, 0, 5);
         Matrix matrix2 = new Matrix(matrix);
-        Matrix matrix3 = new Matrix(2, 3);
         System.out.println(matrix.toString());
         System.out.println("Ist Matrix quadratisch? " + matrix.isSquare());
         matrix.set(5, 3, 2);

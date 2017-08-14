@@ -5,7 +5,7 @@ import java.util.Arrays;
  * Project: lab to class software developement 1 Mrs. Prof. Dr. Hammerschall, WS 2016/2017
  * Author: Sebastian Baumann, sebastian_baumann@gmx.net
  * Study group: IF3A
- * Date: 26. Oktober 2016
+ * Date: 21. December 2016
  * Purpose: solution to lab Matrix
  */
 class Matrix {
